@@ -1,95 +1,164 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar Tiwary</h1>
-<h3 align="center">Backend Developer | Java & Spring Boot | Building Scalable Web Applications</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/amit-tiwary-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:It.1803248@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/amit5216"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+# Amit Kumar Tiwary
 
----
+**Backend Developer** · Java & Spring Boot · Full-Stack Web Applications
 
-### 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-tiwary-developer/)
+[![Gmail](https://img.shields.io/badge/lt.1803248@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lt.1803248@gmail.com)
+[![GitHub](https://img.shields.io/badge/amit5216-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amit5216)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 
-- 🔭 Currently building **[Satya Sai Medico](https://github.com/amit5216/SatyaSaiMedico)** — A full-stack hospital management platform
-- 🌱 Solving **450 DSA problems** from Love Babbar's sheet to strengthen problem-solving skills
-- 💻 Focused on **Java Backend Development** with Spring Boot ecosystem
-- 📫 Reach me at **It.1803248@gmail.com**
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+### About
 
-**Backend**
+Backend developer with expertise in building production-ready REST APIs using **Java 21** and **Spring Boot 3**. Currently building full-stack applications with secure authentication, payment integration, and clean architecture. CDAC PG-DAC graduate focused on scalable backend systems.
 
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+- 🏥 Building **Satya Sai Medico** — Hospital management platform
+- 🔧 Built **TaskBuddy** — Service booking platform with Razorpay payments *(CDAC Capstone)*
+- 🧠 Solving **Love Babbar's 450 DSA sheet** in Java — daily commits
 
 ---
 
-### 📌 Featured Projects
+### Tech Stack
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🏥 **[Satya Sai Medico](https://github.com/amit5216/SatyaSaiMedico)** | Full-stack hospital management platform with appointment booking, doctor management, and medicine catalog | Java 21, Spring Boot, React 19, MySQL, JWT Auth |
-| 🚗 **[Parking Management System](https://github.com/amit5216/M1_ManagementSystem_App)** | System to manage parking lot operations, vehicle tracking, and slot allocation | C |
-| 🧠 **[DSA Solutions](https://github.com/amit5216/DSA)** | Solutions to 450+ DSA problems organized by topic with complexity analysis | Java |
+<table>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Java_21-437291?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>DevOps & Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Stats
+### Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amit5216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit5216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit5216&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+#### 🔧 [TaskBuddy](https://github.com/amit5216/TaskBuddy) — *CDAC Capstone*
+Full-stack **service booking platform** (like UrbanClap) where customers can discover workers, book services, and pay online.
+
+**Key Features:**
+- JWT-based authentication with role-based access (Customer / Worker / Admin)
+- Razorpay payment gateway integration with server-side signature verification
+- Real-time booking status management with state machine transitions
+- Soft-delete architecture, global exception handling, DTO pattern
+
+**Stack:** `Java 21` · `Spring Boot 3` · `Spring Security` · `React` · `MySQL` · `Razorpay` · `Docker`
+**Deploy:** Railway (Backend) · Vercel (Frontend)
+
+</td>
+<td width="50%">
+
+#### 🏥 [Satya Sai Medico](https://github.com/amit5216/SatyaSaiMedico)
+Full-stack **hospital management platform** with appointment booking, doctor management, and medicine catalog.
+
+**Key Features:**
+- Secure admin panel with JWT authentication
+- Appointment scheduling and management system
+- Doctor profiles and medicine catalog
+- Responsive UI with modern design
+
+**Stack:** `Java 21` · `Spring Boot 3` · `Spring Security` · `React 19` · `Tailwind CSS` · `MySQL` · `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🚗 [Parking Management System](https://github.com/amit5216/M1_ManagementSystem_App)
+Console-based system for managing parking lot operations, vehicle entry/exit tracking, and slot allocation.
+
+**Stack:** `C`
+
+</td>
+<td width="50%">
+
+#### 🧠 [DSA-450](https://github.com/amit5216/DSA)
+Solutions to **Love Babbar's 450 DSA problems** — organized by topic with approach explanations and time/space complexity analysis.
+
+**Stack:** `Java`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 DSA Progress — Love Babbar 450 Sheet
+### GitHub Analytics
 
-> 📈 Tracking my journey through the Love Babbar DSA 450 sheet — solving daily in Java
+<div align="center">
 
-| Topic | Progress |
-|-------|----------|
-| Arrays | 🔄 In Progress |
-| String | ⬜ Upcoming |
-| Linked List | ⬜ Upcoming |
-| Stack & Queue | ⬜ Upcoming |
-| Binary Tree | ⬜ Upcoming |
-| BST | ⬜ Upcoming |
-| Heap | ⬜ Upcoming |
-| Graph | ⬜ Upcoming |
-| Greedy | ⬜ Upcoming |
-| Dynamic Programming | ⬜ Upcoming |
-| Backtracking | ⬜ Upcoming |
-| Bit Manipulation | ⬜ Upcoming |
+<img src="https://github-readme-stats.vercel.app/api?username=amit5216&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit5216&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amit5216&theme=github-dark-blue&hide_border=true&background=0d1117" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amit5216&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+### DSA Progress — Love Babbar 450 Sheet
+
+> Solving daily in Java · Organized by topic with complexity analysis
+
+| Topic | Status | Topic | Status |
+|-------|--------|-------|--------|
+| Arrays | 🔄 In Progress | Heap | ⬜ Upcoming |
+| String | ⬜ Upcoming | Graph | ⬜ Upcoming |
+| Linked List | ⬜ Upcoming | Greedy | ⬜ Upcoming |
+| Stack & Queue | ⬜ Upcoming | Dynamic Programming | ⬜ Upcoming |
+| Binary Tree | ⬜ Upcoming | Backtracking | ⬜ Upcoming |
+| BST | ⬜ Upcoming | Bit Manipulation | ⬜ Upcoming |
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amit5216&color=353b48&style=flat-square&label=Profile+Views" />
+
+*Open to Backend Developer / Full-Stack Developer opportunities*
+
+</div>
