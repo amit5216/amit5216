@@ -77,7 +77,7 @@ Backend developer with expertise in building production-ready REST APIs using **
 <tr>
 <td width="50%">
 
-#### 🔧 [TaskBuddy](https://github.com/amit5216/TaskBuddy) — *CDAC Capstone*
+#### 🔧 [TaskBuddy](https://github.com/cdac-project-task-buddy) — *CDAC Capstone*
 Full-stack **service booking platform** (like UrbanClap) where customers can discover workers, book services, and pay online.
 
 **Key Features:**
@@ -120,6 +120,29 @@ Console-based system for managing parking lot operations, vehicle entry/exit tra
 Solutions to **Love Babbar's 450 DSA problems** — organized by topic with approach explanations and time/space complexity analysis.
 
 **Stack:** `Java`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Education & CDAC
+
+🎓 **PG-DAC** — Centre for Development of Advanced Computing (CDAC)
+
+<table>
+<tr>
+<td width="50%">
+
+**[![Org](https://img.shields.io/badge/cdac--project--task--buddy-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cdac-project-task-buddy)** 
+Capstone project organization — contains the complete **TaskBuddy** source code (backend + frontend), documentation, and deployment configs.
+
+</td>
+<td width="50%">
+
+**[![Org](https://img.shields.io/badge/kd3--amit--92480-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kd3-amit-92480)** 
+CDAC coursework & assignments — Java, Advanced Java, Web technologies, and database labs completed during PG-DAC.
 
 </td>
 </tr>
