@@ -155,14 +155,13 @@ CDAC coursework & assignments — Java, Advanced Java, Web technologies, and dat
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=amit5216&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117" height="165" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit5216&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amit5216&theme=github-dark&hide_border=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amit5216&theme=github_dark" />
+<img src="https://streak-stats.demolab.com/?user=amit5216&theme=github-dark-blue&hide_border=true&background=0d1117" />
+
 </div>
 
-
+---
 
 ### DSA Progress — Love Babbar 450 Sheet
 
