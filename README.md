@@ -148,6 +148,7 @@ CDAC coursework & assignments — Java, Advanced Java, Web technologies, and dat
 </tr>
 </table>
 
+---
 
 ### GitHub Analytics
 
@@ -159,6 +160,8 @@ CDAC coursework & assignments — Java, Advanced Java, Web technologies, and dat
 <!-- <img src="https://streak-stats.demolab.com/?user=amit5216&theme=github-dark-blue&hide_border=true&background=0d1117" /> -->
 <img src="https://streak-stats.demolab.com/?user=amit5216&theme=github-dark-blue&hide_border=true&background=0d1117&v=4" />
 </div>
+
+---
 
 ### DSA Progress — Love Babbar 450 Sheet
 
