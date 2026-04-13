@@ -182,6 +182,6 @@ CDAC coursework & assignments — Java, Advanced Java, Web technologies, and dat
 
 <img src="https://komarev.com/ghpvc/?username=amit5216&color=353b48&style=flat-square&label=Profile+Views" />
 
-*Open to Backend Developer / Full-Stack Developer opportunities*
+*Open to Backend Developer / Full-Stack Developer opportunities* 
 
 </div>
