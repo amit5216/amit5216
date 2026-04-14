@@ -111,7 +111,7 @@ Full-stack **hospital management platform** with appointment booking, doctor man
 #### 🚗 [Parking Management System](https://github.com/amit5216/M1_ManagementSystem_App)
 Console-based system for managing parking lot operations, vehicle entry/exit tracking, and slot allocation.
 
-**Stack:** `C`
+**Stack:** `C`  
 
 </td>
 <td width="50%">
