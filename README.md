@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-tiwary-developer/)
 [![Gmail](https://img.shields.io/badge/lt.1803248@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lt.1803248@gmail.com)
 [![GitHub](https://img.shields.io/badge/amit5216-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amit5216)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/amit5216)
 
 </div>
 
