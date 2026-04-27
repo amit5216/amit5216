@@ -158,7 +158,7 @@ CDAC coursework & assignments — Java, Advanced Java, Web technologies, and dat
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit5216&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" height="165" /> -->
 
 <!-- <img src="https://streak-stats.demolab.com/?user=amit5216&theme=github-dark-blue&hide_border=true&background=0d1117" /> -->
-<img src="https://streak-stats.demolab.com/?user=amit5216&theme=github-dark-blue&hide_border=true&background=0d1117&v=4"/>
+<img src="https://streak-stats.demolab.com/?user=amit5216&theme=github-dark-blue&hide_border=true&background=0d1117&v=7"/>
 </div>
 
 ---
