@@ -114,7 +114,7 @@ Console-based system for managing parking lot operations, vehicle entry/exit tra
 **Stack:** `C`  
 
 </td>
-<td width="50%">
+<td width="50%"> 
 
 #### 🧠 [DSA-450](https://github.com/amit5216/DSA)
 Solutions to **Love Babbar's 450 DSA problems** — organized by topic with approach explanations and time/space complexity analysis.
