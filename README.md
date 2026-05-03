@@ -2,7 +2,7 @@
     
 # Amit Kumar Tiwary  
 
-**Backend Developer** · Java & Spring Boot · Full-Stack Web Applications
+**Backend Developer** · Java & Spring Boot · Full-Stack Web Applications 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-tiwary-developer/)
 [![Gmail](https://img.shields.io/badge/lt.1803248@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:lt.1803248@gmail.com)
