@@ -1,7 +1,7 @@
 <div align="center">   
     
 # Amit Kumar Tiwary  
-
+ 
 **Backend Developer** · Java & Spring Boot · Full-Stack Web Applications 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-tiwary-developer/)
