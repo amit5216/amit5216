@@ -153,7 +153,9 @@ CDAC coursework & assignments — Java, Advanced Java, Web technologies, and dat
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=amit5216&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amit5216&show_icons=true&theme=github_dark&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit5216&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
 ---
